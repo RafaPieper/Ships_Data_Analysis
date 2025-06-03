@@ -43,3 +43,5 @@ A smaller fishing vessel with a narrow beam might be better suited for coastal w
 From the EDA, we can observe **MSC TESSA appears to be the biggest big with the most cargo capacity in this dataset**
 
 ![MSC_TESSA](https://static.vesselfinder.net/ship-photo/9930038-636022102-fed86d47acc48ed62c45903f0eaeb15a/1?v1)
+
+## ![Check the full EDA notebook here](https://github.com/RafaPieper/Ships_Data_Analysis/blob/main/ships-eda.ipynb)
